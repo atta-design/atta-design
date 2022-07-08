@@ -2,7 +2,6 @@
 - 👀 I’m interested in Front End  programming specially react js, react native and next js and every day challange myself by various projects.
 - 🌱 I’m currently learning to how improve my programming skills and also learn new tools in my field!
 - My skills: FRONT-END,REACT JS,REDUX,REACT NATIVE,NEXT JS,MATERIAL UI,BOOTSTRAP,JAVASCRIPT,TYPESCRIPT,RESTFUL API,JQUERY ,NODEJS,SASS
-- [Uploading 1631110818-logo-react-js.png…]()
 
 - 💞️ I’m looking to collaborate on front end projects 
 - 📫 How to reach me 
