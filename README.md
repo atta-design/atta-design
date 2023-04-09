@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to how improve my programming skills and also learn new tools in my field!
 - My skills: FRONT-END,REACT JS,REDUX,REACT NATIVE,NEXT JS,MATERIAL UI,BOOTSTRAP,JAVASCRIPT,TYPESCRIPT,RESTFUL API,JQUERY ,NODEJS,SASS
 
-- 💞️ I’m looking to collaborate on front end projects 
+- 💞️ I’m looking for collaborate on front end projects 
 - 📫 How to reach me 
 - My linkdin www.linkedin.com/in/atta-samadi-4b8112224
 - My Whatsapp 989142782009(09142782009)
